@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WA</string>
+    <string name="login">Login</string>
 </resources>
